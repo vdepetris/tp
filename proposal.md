@@ -18,7 +18,7 @@
 El proyecto consiste en el desarrollo de una pagina web e-commerce dedicada a la venta y distribución de suplementos nutricionales para el ámbito deportivo. El modelo de negocio se centra en la autogestión del cliente mediante un catálogo con filtros avanzados y herramientas de cálculo de consumo
 
 ### Modelo
-![https://drive.google.com/file/d/1EHltlVnn7i9pp8K_jo8bGB-lugNe3Eb0/view?usp=sharing]()
+[Modelo](https://drive.google.com/file/d/1EHltlVnn7i9pp8K_jo8bGB-lugNe3Eb0/view?usp=sharing)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
