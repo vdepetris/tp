@@ -2,23 +2,28 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+
+* 52404 - Lautaro Bruneli
+* 51203 - Valentín Depetris
+* 50358 - Ignacio Rojas
+* 52373 - Juan Segundo Menéndez 
+
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [frontend app](https://github.com/vdepetris/tp-desarrollo-software-front)
+* [backend app](https://github.com/vdepetris/tp-desarrollo-web-backend)
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+El proyecto consiste en el desarrollo de una pagina web e-commerce dedicada a la venta y distribución de suplementos nutricionales para el ámbito deportivo. El modelo de negocio se centra en la autogestión del cliente mediante un catálogo con filtros avanzados y herramientas de cálculo de consumo
 
 ### Modelo
-![imagen del modelo]()
+![https://app.diagrams.net/#G1EHltlVnn7i9pp8K_jo8bGB-lugNe3Eb0#%7B%22pageId%22%3A%22xGDDWCF1E6WmHVt6leBU%22%7D]()
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
+
 
 ### Alcance Mínimo
 
